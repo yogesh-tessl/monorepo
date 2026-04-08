@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/shepherdjerred/monorepo/compare/clauderon-v0.2.0...clauderon-v0.2.1) (2026-04-08)
+
+
+### Bug Fixes
+
+* **root:** prettier formatting fixes ([f6c34ea](https://github.com/shepherdjerred/monorepo/commit/f6c34eaf233e2ab5e1bc98b197c703537d1f64b7))
+
 ## [0.2.0](https://github.com/shepherdjerred/monorepo/compare/clauderon-v0.1.0...clauderon-v0.2.0) (2026-04-05)
 
 ### Bug Fixes
